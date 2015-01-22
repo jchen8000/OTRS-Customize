@@ -1,0 +1,1 @@
+{"DBType": "mysql", "InstallType": "CreateDB", "DBHost": "localhost", "OTRSDBUser": "otrs", "OTRSDBPassword": "0f3r5kgQ7Oqw3G", "DBName": "otrs", "DBUser": "root", "DBPassword": "",  "SkipLicense":1,"SkipLog":1}
